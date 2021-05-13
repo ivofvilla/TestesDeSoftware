@@ -1,0 +1,9 @@
+C:\Users\Ivo\OneDrive\Área de Trabalho\Estudos\TesteDeSoftware\01 - Teste de Unidade\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\Ivo\OneDrive\Área de Trabalho\Estudos\TesteDeSoftware\01 - Teste de Unidade\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\Ivo\OneDrive\Área de Trabalho\Estudos\TesteDeSoftware\01 - Teste de Unidade\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\Ivo\OneDrive\Área de Trabalho\Estudos\TesteDeSoftware\01 - Teste de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+C:\Users\Ivo\OneDrive\Área de Trabalho\Estudos\TesteDeSoftware\01 - Teste de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\Ivo\OneDrive\Área de Trabalho\Estudos\TesteDeSoftware\01 - Teste de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\Ivo\OneDrive\Área de Trabalho\Estudos\TesteDeSoftware\01 - Teste de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\OneDrive\Área de Trabalho\Estudos\TesteDeSoftware\01 - Teste de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\Ivo\OneDrive\Área de Trabalho\Estudos\TesteDeSoftware\01 - Teste de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
